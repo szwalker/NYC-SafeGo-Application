@@ -1,8 +1,10 @@
 # Readme
 
 ### Slide For Big Data Analytic Applications Symposium - Fall 2019
-[Click me.](https://drive.google.com/file/d/1cBJGlKK_FXjgty0cGmv_EPr4-gH6nNOZ/view?usp=sharing)
+[Click me for presentation slide.](https://drive.google.com/file/d/1cBJGlKK_FXjgty0cGmv_EPr4-gH6nNOZ/view?usp=sharing)
 
+### Deployed Website:
+[Click me for deployed website.](http://project.heliumyc.top/)
 
 ### Datasets:
 | NAME | RAW DATA LOCATION ON DUMBO |
