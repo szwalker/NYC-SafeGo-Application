@@ -1,6 +1,6 @@
 # Readme
-
-### Slide For Big Data Analytic Applications Symposium - Fall 2019
+### Article and Slides For Big Data Analytic Applications Symposium - Fall 2019
+[Clic me to read the NYC SafeGo Application Article](https://github.com/szwalker/NYC-SafeGo-Application/blob/master/NYC%20SafeGo%20Application%20Article.pdf)
 [Click me for presentation slide.](https://drive.google.com/file/d/1cBJGlKK_FXjgty0cGmv_EPr4-gH6nNOZ/view?usp=sharing)
 
 
