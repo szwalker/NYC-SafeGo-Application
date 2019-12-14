@@ -1,0 +1,2 @@
+scp Centerline.csv cy1505@dumbo.es.its.nyu.edu:
+hdfs dfs -put Centerline.csv ./proj/

@@ -1,0 +1,7 @@
+﻿Local file into dumbo:
+* scp -r ./crime yl6127@dumbo.hpc.nyu.edu:/home/yl6127
+
+
+Ingest into hdfs:
+* hdfs dfs -put NYPD_Complaint_Data_Current.csv /user/yl6127/project/
+* hdfs dfs -put NYPD_Complaint_Data_Historic.csv /user/yl6127/project/

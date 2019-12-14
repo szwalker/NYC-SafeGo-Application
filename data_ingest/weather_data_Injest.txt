@@ -1,0 +1,10 @@
+// download from noaa weather
+https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/
+GHCND:USW00094728/detail
+// move to dumbo
+scp ~/Study/big_data_app_dev/final_project/
+noaa_nyc_weather_2010-2019.csv cy1505@dumbo.es.its.nyu.edu:~/
+// move
+hdfs dfs -mkdir proj
+hdfs dfs -put ./noaa_nyc_weather_2010-2019.csv ./proj/
+noaa_nyc_weather_2010-2019.csv

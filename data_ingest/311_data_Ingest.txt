@@ -1,0 +1,15 @@
+﻿311 Data Ingest:
+
+
+Step 1: Extract _311 Service Requests from 2010 to Present_ from the NYC Open Data website and store in CSV format. Data source: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
+
+
+Step 2: Rename the data to `311_data.csv` in the local machine.
+
+
+Step 3: Ingest the data to NYU HPC via `scp` command:
+scp 311_data.csv jl8456@dumbo.es.its.nyu.edu:/home/jl8456/BDAD/project
+
+
+Step 4: Ingest the data to HDFS on NYU DUMBO via `put` command:
+hdfs dfs -put 311_data.csv /user/jl8456/BDAD/project
